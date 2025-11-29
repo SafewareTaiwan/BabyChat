@@ -9,6 +9,7 @@ Enjoy the free download of our BabyChat, and have a good time conversing with Ad
 Along with our breakthrough technologies, we will propose more useful Adam series model for future industrial and commercial uses.
 Note: BabyChat App is only applicable for Windows OS at this moment
 Adam No.1 - BabyChat
+Please go to the **[Releases]** section on the right side of this page to download the latest version of the `.exe` file.
 
 基于 ASSTF 的全球最小语言模型：
 当世界普遍认为扩展性是构建语言模型的必要条件（即使是 TinyModel 系列也至少需要 100 万个参数）时，Safeware Technologies Inc. 利用我们独有的自适应状态空间传递函数 (ASSTF) 技术，以及其他技术知识产权，开发了 BabyChat 应用——Adam No.1。该模型仅包含一个神经元（位于一个嵌入层），却拥有 10 万个参数，这得益于我们使用 GPT2 分词器和 50257 个词汇表。
@@ -16,3 +17,4 @@ Adam No.1（BabyChat）可以使用真实的英语单词与您对话，但由于
 欢迎免费下载 BabyChat，与 Adam No.1 畅聊一番。
 我们将结合自身的突破性技术，为未来的工业和商业应用开发更多实用的 Adam 系列模型。
 注意：目前 BabyChat App 仅适用于 Windows 操作系统。
+請前往本頁面右側的 **[Releases]** 區塊，下載最新版本的 `.exe` 檔案。
